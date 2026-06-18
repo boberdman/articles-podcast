@@ -5,7 +5,13 @@
     <link>https://boberdman.github.io/articles-podcast/</link>
     <description>Articles Bob flagged, narrated as audio and delivered automatically.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 01:24:34 +0000</lastBuildDate>
+    <image>
+      <url>https://boberdman.github.io/articles-podcast/cover.jpg</url>
+      <title>Bob&#x27;s Article Podcasts</title>
+      <link>https://boberdman.github.io/articles-podcast/</link>
+    </image>
+    <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
     <itunes:author>Bob Erdman</itunes:author>
     <itunes:summary>Articles Bob flagged, narrated as audio and delivered automatically.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -21,6 +27,8 @@
       <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-talking-to-humans-about-ai.mp3" length="1215398" type="audio/mpeg"/>
       <guid isPermaLink="false">ttha-2026-06-18-sample</guid>
       <itunes:duration>113</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://stevenrmhawk.substack.com/p/talking-to-humans-about-ai-a-translation</link>
     </item>
   </channel>
