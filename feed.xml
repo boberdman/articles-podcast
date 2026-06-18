@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bob&#x27;s Article Podcasts</title>
+    <link>https://boberdman.github.io/articles-podcast/</link>
+    <description>Articles Bob flagged, narrated as audio and delivered automatically.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2026 01:18:24 +0000</lastBuildDate>
+    <itunes:author>Bob Erdman</itunes:author>
+    <itunes:summary>Articles Bob flagged, narrated as audio and delivered automatically.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Bob Erdman</itunes:name>
+      <itunes:email>bob@crazyorganic.net</itunes:email>
+    </itunes:owner>
+    <itunes:category text="News"/>
+    <item>
+      <title>Talking to Humans About AI: A Translation Guide (sample)</title>
+      <description>A narrated sample of Steven Hawk&#x27;s guide to communicating about AI across an organization. Pilot episode validating the feed.</description>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-talking-to-humans-about-ai.mp3" length="1215398" type="audio/mpeg"/>
+      <guid isPermaLink="false">ttha-2026-06-18-sample</guid>
+      <itunes:duration>113</itunes:duration>
+      <link>https://stevenrmhawk.substack.com/p/talking-to-humans-about-ai-a-translation</link>
+    </item>
+  </channel>
+</rss>
