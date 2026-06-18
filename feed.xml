@@ -5,7 +5,7 @@
     <link>https://boberdman.github.io/articles-podcast/</link>
     <description>Articles Bob flagged, narrated as audio and delivered automatically.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 01:58:49 +0000</lastBuildDate>
     <image>
       <url>https://boberdman.github.io/articles-podcast/cover.jpg</url>
       <title>Bob&#x27;s Article Podcasts</title>
@@ -20,6 +20,17 @@
       <itunes:email>bob@crazyorganic.net</itunes:email>
     </itunes:owner>
     <itunes:category text="News"/>
+    <item>
+      <title>When to Say No to AI</title>
+      <description>A framework of six questions to decide when not to deploy AI, and how to make the case for restraint.</description>
+      <pubDate>Thu, 18 Jun 2026 09:00:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-when-to-say-no-to-ai.mp3" length="6011062" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-when-to-say-no-to-ai</guid>
+      <itunes:duration>551</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/when-to-say-no-to-ai</link>
+    </item>
     <item>
       <title>Talking to Humans About AI: A Translation Guide (sample)</title>
       <description>A narrated sample of Steven Hawk&#x27;s guide to communicating about AI across an organization. Pilot episode validating the feed.</description>
