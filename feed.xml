@@ -5,7 +5,7 @@
     <link>https://boberdman.github.io/articles-podcast/</link>
     <description>Articles Bob flagged, narrated as audio and delivered automatically.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:46:36 +0000</lastBuildDate>
     <image>
       <url>https://boberdman.github.io/articles-podcast/cover.jpg</url>
       <title>Bob&#x27;s Article Podcasts</title>
@@ -20,6 +20,94 @@
       <itunes:email>bob@crazyorganic.net</itunes:email>
     </itunes:owner>
     <itunes:category text="News"/>
+    <item>
+      <title>The Employee&#x27;s Guide to Working Alongside AI</title>
+      <description>A practical guide for employees navigating AI in the workplace: naming the fear honestly, understanding what AI does well and badly, and concrete moves to stay valuable.</description>
+      <pubDate>Fri, 19 Jun 2026 05:00:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-19-the-employees-guide-to-working-alongside.mp3" length="11583323" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-19-the-employees-guide-to-working-alongside</guid>
+      <itunes:duration>1056</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/the-employees-guide-to-working-alongside</link>
+    </item>
+    <item>
+      <title>Why AI Pilots Succeed and AI Deployments Fail</title>
+      <description>Steven Hawk explains why AI pilots routinely beat the deployments that follow, naming the selection effects and organizational gaps that derail production systems and the practices, like designing deployment first and assigning real ownership, that bridge them.</description>
+      <pubDate>Thu, 18 Jun 2026 12:30:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-why-ai-pilots-succeed-and-deployments-fail.mp3" length="10966823" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-why-ai-pilots-succeed-and-deployments-fail</guid>
+      <itunes:duration>1004</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/why-ai-pilots-succeed-and-ai-deployments</link>
+    </item>
+    <item>
+      <title>AI and the Board: Governing Technology You Don&#x27;t Fully Understand</title>
+      <description>Steven Hawk argues boards can govern AI without technical mastery, diagnosing common oversight failures and offering the accountability structures, risk-appetite framing, and pointed questions directors need to provide real oversight.</description>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-ai-and-the-board.mp3" length="11800383" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-ai-and-the-board</guid>
+      <itunes:duration>1065</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/ai-and-the-board-governing-technology</link>
+    </item>
+    <item>
+      <title>The AI Strategy That Actually Ships</title>
+      <description>Steven Hawk argues most AI failures are execution problems disguised as strategy problems, and lays out how organizations escape the planning trap by shipping small, building feedback loops, and treating strategy as a learning process.</description>
+      <pubDate>Thu, 18 Jun 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-the-ai-strategy-that-actually-ships.mp3" length="11699625" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-the-ai-strategy-that-actually-ships</guid>
+      <itunes:duration>1060</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/the-ai-strategy-that-actually-ships</link>
+    </item>
+    <item>
+      <title>Build, Buy, or Borrow: The Real AI Decision Most Companies Are Getting Wrong</title>
+      <description>Steven Hawk breaks down the build-buy-borrow decision for sourcing AI capability, detailing the hidden costs of each path and the honest conditions and recurring questions that should drive the choice.</description>
+      <pubDate>Thu, 18 Jun 2026 11:00:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-build-buy-or-borrow.mp3" length="12632460" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-build-buy-or-borrow</guid>
+      <itunes:duration>1146</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/build-buy-or-borrow-the-real-ai-decision</link>
+    </item>
+    <item>
+      <title>Trust as Infrastructure: Why AI Ethics Is a Business Problem, Not a Philosophy Problem</title>
+      <description>Steven Hawk reframes AI ethics from a philosophy exercise into an operational requirement, arguing trust is infrastructure that determines adoption, latitude, and talent, and must be built, maintained, and governed with teeth.</description>
+      <pubDate>Thu, 18 Jun 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-trust-as-infrastructure.mp3" length="12692658" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-trust-as-infrastructure</guid>
+      <itunes:duration>1144</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/trust-as-infrastructure-why-ai-ethics</link>
+    </item>
+    <item>
+      <title>What AI Gets Wrong About People (And What That Means for the Humans Building It)</title>
+      <description>The final piece in Steven Hawk&#x27;s AI series argues that AI&#x27;s deepest limitations are not technical but human: it confuses expression with experience, mistakes consistency for truth, and misses tacit knowledge and meaning, with implications for the people building it.</description>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-what-ai-gets-wrong-about-people.mp3" length="13464622" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-what-ai-gets-wrong-about-people</guid>
+      <itunes:duration>1215</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/what-ai-gets-wrong-about-people-and</link>
+    </item>
+    <item>
+      <title>The Questions Every Executive Should Ask Before Approving an AI Project</title>
+      <description>Twenty questions across six domains—problem, solution, data, risk, organization, and investment—that executives can use to rigorously evaluate AI proposals without being technologists.</description>
+      <pubDate>Thu, 18 Jun 2026 09:30:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-18-questions-every-executive-should-ask.mp3" length="8568583" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-18-questions-every-executive-should-ask</guid>
+      <itunes:duration>787</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/the-questions-every-executive-should</link>
+    </item>
     <item>
       <title>When to Say No to AI</title>
       <description>A framework of six questions to decide when not to deploy AI, and how to make the case for restraint.</description>
@@ -41,6 +129,17 @@
       <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <link>https://stevenrmhawk.substack.com/p/talking-to-humans-about-ai-a-translation</link>
+    </item>
+    <item>
+      <title>The AI Glossary Nobody Asked For (But Everyone Needs)</title>
+      <description>A plain-language reference defining 30-plus AI terms for non-engineers, grouped by theme, each with what it means, what it does not mean, and why it matters.</description>
+      <pubDate>Wed, 17 Jun 2026 22:11:00 -0400</pubDate>
+      <enclosure url="https://boberdman.github.io/articles-podcast/2026-06-17-the-ai-glossary-nobody-asked-for.mp3" length="13099025" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-17-the-ai-glossary-nobody-asked-for</guid>
+      <itunes:duration>1226</itunes:duration>
+      <itunes:image href="https://boberdman.github.io/articles-podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://stevenrmhawk.substack.com/p/the-ai-glossary-nobody-asked-for</link>
     </item>
   </channel>
 </rss>
